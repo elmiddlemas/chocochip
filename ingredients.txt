@@ -6,3 +6,4 @@ salt
 milk
 baking soda
 baking powder?
+eggs
