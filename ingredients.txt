@@ -2,3 +2,6 @@ flour
 sugar
 butter
 choco chips
+salt
+milk
+baking soda
